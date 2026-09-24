@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "go": {
+      "type": "stdio",
+      "command": "go",
+      "args": [
+        "run",
+        "main.go"
+      ],
+      "cwd": "C:\\Users\\bouha\\OneDrive\\Documents\\GitHub\\shiny-mcp"
+    }
+  }
+}
