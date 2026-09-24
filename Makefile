@@ -4,7 +4,7 @@
 BINARY      := calculator
 BINARY_EXE  := $(BINARY).exe
 MAIN        := main.go
-CLIENT      := client.go
+CLIENT      := ./client/main.go
 
 # Go tooling
 GO          := go
